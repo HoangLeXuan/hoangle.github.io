@@ -36,6 +36,8 @@ const CONFIG = {
     title: 'Jelp 2.0: Ever need a meal recommendation? Come and talk with me!',
     description: `This AI chatbot was built using Chatbase and trained with a custom Q&A system to deliver personalized meal suggestions based on user preferences.
 \n
+The project shows the first chat bot I created that helps me understand the prompts and requirement to create an effective chat bot. We learned about how much it takes to develope a user-graded product.
+
 It asks pre-recommendation questions about taste, diet, occasion, demographics, and meal type to generate tailored food ideas. Ideal for restaurants, food apps, or anyone seeking smart, conversational meal planning.
 \n
 Try the demo via the chat bubble.`,
