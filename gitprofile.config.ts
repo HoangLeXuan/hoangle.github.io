@@ -32,9 +32,10 @@ const CONFIG = {
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
+        //Project 1
         {
-    title: 'Jelp 2.0: Ever need a meal recommendation? Come and talk with me!',
-    description: `This AI chatbot was built using Chatbase and trained with a custom Q&A system to deliver personalized meal suggestions based on user preferences.
+          title: 'Jelp 2.0: Ever need a meal recommendation? Come and talk with me!',
+          description: `This AI chatbot was built using Chatbase and trained with a custom Q&A system to deliver personalized meal suggestions based on user preferences.
 \n
 The project shows the first chat bot I created that helps me understand the prompts and requirement to create an effective chat bot. We learned about how much it takes to develope a user-graded product.
 
@@ -42,15 +43,21 @@ It asks pre-recommendation questions about taste, diet, occasion, demographics, 
 \n
 Try the demo via the chat bubble.`,
     imageUrl: 'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-    link: 'https://www.chatbase.co/chatbot-iframe/mDuFHu-Ichg3pjsMtVJIi',
-        },
-        {
-          title: 'Project Name',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://www.chatbase.co/chatbot-iframe/mDuFHu-Ichg3pjsMtVJIi',
+        },
+
+        //Project 2
+        {
+          title: 'AI/ML Timeline',
+          description:
+    'This artifact presents a comprehensive and visually organized timeline tracing key milestones in artificial intelligence and machine learning from early theories to modern breakthroughs. \n\n' +
+    'Objective: To synthesize the historical progression of AI/ML, demonstrate its cyclical development—including AI winters and resurgences—and apply research and communication skills from coursework.\n\n' +
+    'Process: The timeline was built through curated academic and industry research, selecting pivotal events based on theoretical and technological impact. Using LucidChart, events were arranged chronologically with citations. Attention was given to clarity, historical accuracy, and relevance to course outcomes.\n\n' +
+    'Tools: Lucid (for creating the timeline), Google Docs (for drafting), APA citation format.\n\n' +
+    'Value Proposition: The timeline reflects authentic and tangible understanding of AI’s evolution, aligning with course foundations in AI literacy and historical context. It demonstrates applied research, critical thinking, and technical communication skills in a professional and engaging format.',
+  
+          imageUrl:'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://lucid.app/lucidchart/3b024156-3c79-4a05-b0c6-5f36ae1cf30f/edit?viewport_loc=86%2C3050%2C4423%2C2207%2C0_0&invitationId=inv_2ce946fc-2c2c-4ff8-9b80-6f033c8b0ae2',
         },
       ],
     },
